@@ -1,6 +1,6 @@
 <h3 align="center">🧑‍💻 Who am I</h3>
 <p align="center">
-  <samp>I'm Josh. and I like cooking spicy code with cool people.</samp>
+  <samp>My name is Josh and I like cooking spicy code with cool people.</samp>
 </p>
 
 <hr />
