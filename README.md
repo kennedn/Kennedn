@@ -15,7 +15,7 @@
    <img alt="bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
 <p>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true" />
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4" />
 </p>
 
