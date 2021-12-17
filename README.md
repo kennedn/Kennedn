@@ -8,7 +8,7 @@
 <!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">💬 Programming Languages</h3>
 <p align="center">
-   <a href="#footer"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;&nbsp;
+   <a href="#footer"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;
    <a href="#footer"><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
    <a href="#footer"><img alt="c" src="https://img.shields.io/badge/c-993399.svg?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;&nbsp;
    <a href="#footer"><img alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=goland&logoColor=white"></a>&nbsp;&nbsp;
