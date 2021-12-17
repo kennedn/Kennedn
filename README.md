@@ -15,8 +15,8 @@
    <img alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=goland&logoColor=white">&nbsp;&nbsp;
   
   <br /><br />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=gruvbox" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=gruvbox" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark" />
 </p>
 
 <h3 align="center">📫 How to reach me</h3>
