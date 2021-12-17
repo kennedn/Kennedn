@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 Who am I</h3>
+<h3 align="center">🧑‍💻 Who am I</h3>
 <p align="center">
   <samp>I'm Josh and I like cooking spicy code with cool people</samp>
 </p>
