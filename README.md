@@ -16,7 +16,7 @@
   
   <br /><br />
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4" />
 </p>
 
 <h3 align="center">📫 How to reach me</h3>
