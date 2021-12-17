@@ -19,9 +19,9 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4" />
 </p>
 
-<h3 align="center">📫 How to reach me</h3>
+<h3 align="center">📫 Want to know more?</h3>
 <p align="center">
+   <a target="_blank"href="https://kennedn.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/kennedn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://kennedn.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kennedn@msn.com"><img src="https://img.shields.io/badge/Hotmail-%23333?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
