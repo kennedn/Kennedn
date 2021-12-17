@@ -8,11 +8,11 @@
 <!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">💬 Programming Languages</h3>
 <p align="center">
-   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
-   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
-   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;&nbsp;
-   <img alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=goland&logoColor=white">&nbsp;&nbsp;
-   <img alt="bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
+   <a href="#"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;&nbsp;
+   <a href="#"><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;&nbsp;
+   <a href="#"><img alt="c" src="https://img.shields.io/badge/c-993399.svg?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="#"><img alt="golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=goland&logoColor=white"></a>&nbsp;&nbsp;
+   <a href="#"><img alt="bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>&nbsp;&nbsp;
 <p>
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true" />
