@@ -15,10 +15,10 @@
    <a href="#pins"><img alt="bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>&nbsp;&nbsp;
 <p>
 <p align="center">
-  <a href="#gh-dark-mode-only" style='cursor: default'><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true" /></a>
-  <a href="#gh-dark-mode-only" style='cursor: default'><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4" /></a>
-   <a href="#gh-light-mode-only" style='cursor: defaul;'><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&disable_animations=true" /></a>
-  <a href="#gh-light-mode-only" style='cursor: default'><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&langs_count=4" /></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true#gh-dark-mode-only" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4#gh-dark-mode-only"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true#gh-light-mode-only" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4#gh-light-mode-only"/>
 </p>
 
 <h3 align="center">📡 Want to know more?</h3>
