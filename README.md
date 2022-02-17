@@ -17,8 +17,8 @@
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true#gh-dark-mode-only" />
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4#gh-dark-mode-only"/>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_dark&disable_animations=true#gh-light-mode-only" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark&langs_count=4#gh-light-mode-only"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kennedn&show_icons=true&count_private=true&theme=github_light&disable_animations=true#gh-light-mode-only" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_light&langs_count=4#gh-light-mode-only"/>
 </p>
 
 <h3 align="center">📡 Want to know more?</h3>
