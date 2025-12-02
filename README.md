@@ -15,8 +15,9 @@
    <a href="#pins"><img alt="bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>&nbsp;&nbsp;
 <p>
 <p align="center">
-  <a href="#gh-dark-mode-only" style='cursor: default'><img width="60.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true&theme=github_dark" /></a>
-  <a href="#gh-light-mode-only" style='cursor: default'><img width="60.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedn&layout=compact&count_private=true" /></a>
+     ![My user statistics](images/userstats.svg)
+  <a href="#gh-dark-mode-only" style='cursor: default'><img width="60.0%" src="images/userstats-dark.svg" /></a>
+  <a href="#gh-light-mode-only" style='cursor: default'><img width="60.0%" src="images/userstats-light.svg" /></a>
 </p>
 
 <h3 align="center">📡 Want to know more?</h3>
