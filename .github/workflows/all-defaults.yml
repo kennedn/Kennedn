@@ -21,5 +21,7 @@ jobs:
 
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
+      with:
+        image-file: images/userstats-light.svg
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
