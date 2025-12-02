@@ -1,6 +1,6 @@
 <h3 align="center">🧑‍💻 Who am I</h3>
 <p align="center">
-  <samp>My name is Josh and I like cooking up spicy code with spicier humans.</samp>
+  <samp>My name is Josh, and I like cooking up spicy things with even spicier people.</samp>
     
 > ⚠️ Warning: Non-human devices within a 10-metre radius of my person may be subject to elective surgery and a voided warranty.
 </p>
